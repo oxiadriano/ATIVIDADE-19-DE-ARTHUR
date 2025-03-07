@@ -4,7 +4,7 @@ const respAutor = document.getElementById('respAutor');
 
 botaoAutor.addEventListener('click', pegarInformacao);
 
-const urlBase = "https://back-end-omega-liard.vercel.app/s/back-end";
+const urlBase = "https://back-end-genz.vercel.app/";
 
 async function pegarInformacao() {
 
