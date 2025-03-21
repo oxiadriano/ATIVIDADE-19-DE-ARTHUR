@@ -22,7 +22,7 @@ import { verificarAutenticacao } from './autorizar.js';
   }
 })();
 
-const urlBase = "https://back-end-genz.vercel.app/";
+const urlBase = "https://back-end-genz.vercel.app";
 
 const tabelaCorpo = document.getElementById("tabela-usuarios");
 tabelaCorpo.innerHTML = 'Aguarde...';
